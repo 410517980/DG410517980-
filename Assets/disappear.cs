@@ -19,7 +19,7 @@ public class disappear : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        //this.gameObject.SetActive (false);
+        this.gameObject.SetActive (false);
         other.gameObject.SetActive(false);
     }
 }
