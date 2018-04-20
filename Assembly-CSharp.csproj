@@ -54,7 +54,10 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\bullet.cs" />
      <Compile Include="Assets\cameracontroller.cs" />
+     <Compile Include="Assets\disappear.cs" />
+     <Compile Include="Assets\fire.cs" />
      <Compile Include="Assets\playerController.cs" />
      <Compile Include="Assets\rota.cs" />
      <Compile Include="Assets\skincontroller.cs" />
